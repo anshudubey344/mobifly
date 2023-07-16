@@ -15,3 +15,7 @@ value = var.devops_op_trainer
 output "aws_ec2_instances" {
 value = var.aws_ec2_object.instances
 }
+
+output "tf_batch_students" {
+value = var.no_of_students
+}

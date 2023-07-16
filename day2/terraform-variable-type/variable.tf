@@ -34,3 +34,5 @@ default = {
 	ami = "ubuntu-afed34"
 }
 }
+
+variable "no_of_students" {}
